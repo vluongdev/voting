@@ -1,4 +1,4 @@
-Word-Based User Interface Voting System
+Text-Based User Interface Voting System
 
 Admin Signin Options
   - Display list of candidates
